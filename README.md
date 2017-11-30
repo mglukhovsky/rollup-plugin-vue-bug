@@ -2,6 +2,7 @@ This repo reproduces a [bug](https://github.com/vuejs/rollup-plugin-vue/issues/1
 
 To see the build error, run:
 ```
+npm install
 npm run build
 ```
 
