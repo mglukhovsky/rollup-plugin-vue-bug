@@ -1,4 +1,4 @@
-This repo reproduces a bug in rollup-plugin-vue.
+This repo reproduces a [bug](https://github.com/vuejs/rollup-plugin-vue/issues/159) in rollup-plugin-vue.
 
 To see the build error, run:
 ```
